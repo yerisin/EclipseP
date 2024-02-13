@@ -20,7 +20,7 @@ El proyecto trata sobre un curso sobre Java
 - Git commit -m
 - Git push
 
-** Entre otros comandos... **
+**Entre otros comandos... **
 
 Algunos comandos en Acción
 
