@@ -1,10 +1,10 @@
-##Proyecto Código Facilito
+## Proyecto Código Facilito
 
 <p>
 El proyecto trata sobre un curso sobre Java
 </p>
 
-###Temas del curso
+### Temas del curso
 
 - OperadorTernario
 - OperadoresAritmetricos
@@ -12,7 +12,7 @@ El proyecto trata sobre un curso sobre Java
 - OperadoresRelacionales
 - Variables
 
-####Comandos Básicos usados
+#### Comandos Básicos usados
 
 - Git init
 - Git status
@@ -20,7 +20,7 @@ El proyecto trata sobre un curso sobre Java
 - Git commit -m
 - Git push
 
-**Entre otros comandos... **
+** Entre otros comandos... **
 
 Algunos comandos en Acción
 
